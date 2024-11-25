@@ -1,0 +1,8 @@
+*node_modules/
+.crossnote/config.js
+.crossnote/head.html
+.crossnote/parser.js
+.crossnote/style.less
+.crossnote/config.js
+.vscode/sftp.json
+*.vscode/
